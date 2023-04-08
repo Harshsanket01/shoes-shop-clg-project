@@ -1,0 +1,11 @@
+.abtimg{
+width: 470px;
+top: 3.5rem;
+right: 0;
+    left: -3rem;
+position: absolute;
+  top: 1.5rem;
+  max-width: initial;
+  width: 275px;
+  transform: var(--rotate-img);
+  }
